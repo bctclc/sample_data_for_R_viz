@@ -1,0 +1,420 @@
+sport,name,sex,weight.kg,height.cm,birthyear
+weightlifting,ÃÏËÕÆ½,f,115,173,1989
+judo,ÓÚËÌ,f,126,182,1986
+wrestling,ÃÏÇ¿,m,130,186,1987
+athletics,¸ßÑô,f,115,178,1993
+athletics,¹®Á¢æ¯,f,110,175,1989
+wrestling,µËÖ¾Î°,m,125,188,1988
+athletics,Íõá¿,f,105,175,1987
+athletics,±å¿¨,f,113,182,1993
+athletics,ÕÅÎÄĞã,f,103,182,1986
+athletics,³ÂÑï,f,100,180,1991
+water polo,Ã·Ğ¦º®,f,100,180,1996
+weightlifting,ÑîÕÜ,m,105,187,1991
+athletics,ËÕĞÀÔÃ,f,95,178,1991
+archery,Íõ´óÅô,m,100,184,1996
+wrestling,Ğ¤é¦,m,100,185,1991
+weightlifting,ÌïÌÎ,m,85,172,1994
+athletics,ÁõæÃæÃ,f,91,178,1990
+athletics,·ë±ò,f,95,184,1994
+basketball,Àî¸ù,m,110,198,1988
+archery,ÆëÓñºì,f,75,166,1989
+golf,·ëÉºÉº,f,80,172,1989
+archery,Îâ¼ÑĞÀ,f,72,164,1997
+shooting,ÕÅÃÎÑ©,f,70,162,1991
+shooting,ÕÔÉù²¨,m,81,175,1982
+wrestling,Åí·É,m,89,184,1992
+water polo,ËÎ¶¬Â×,f,83,178,1991
+weightlifting,ÂÀĞ¡¾ü,m,77,172,1984
+wrestling,ÕÅ·ïÁø,f,77,172,1989
+wrestling,±ÏÊ¤·å,m,87,183,1989
+weightlifting,ÏòÑŞÃ·,f,69,163,1992
+rowing,ÕÅÃô,f,84,180,1993
+sailing,¹¬ÀÚ,m,88,185,1983
+table tennis,·®Õñ¶«,m,76,172,1997
+canoe,ÍõÈÕì¿,m,85,182,1993
+basketball,Àîéª,m,100,198,1976
+water polo,ĞÜ¶Øå«,f,83,181,1998
+weightlifting,ÁúÇåÈª,m,57,150,1990
+basketball,î¡È½,m,93,193,1992
+weightlifting,µËŞ±,f,63,159,1993
+shooting,³ÂÓ±,f,67,164,1977
+basketball,Ò×½¨Áª,m,113,213,1987
+archery,ĞÏÓî,m,88,188,1991
+swimming,ºÎ½¡±ò,m,88,188,1993
+athletics,ÕÅÅàÃÈ,m,86,186,1987
+shooting,ÅËÇ¿,m,85,185,1985
+swimming,ÕÅ÷è±ó,m,85,185,1994
+weightlifting,Ê¯ÖÇÓÂ,m,70,168,1993
+weightlifting,ÚÈÀû¾ü,m,65,162,1993
+golf,Îâ°¢Ë³,m,81,181,1985
+wrestling,Ñî±ó,m,80,180,1989
+athletics,ÁõÊ«Ó±,f,78,178,1993
+judo,ÕÅÕã»Û,f,78,178,1987
+marathon swimming,×æÁ¢¾ü,m,87,188,1989
+sailing,ÍõÏşÀö,f,70,169,1982
+shooting,²ÜÒİ·É,m,75,175,1988
+boxing,ÓÚ·áîø,m,91,193,1995
+football,ÂíÏşĞñ,f,73,173,1988
+shooting,ÅÓÎ°,m,77,178,1986
+shooting,ÍõÖÇÎ°,m,77,178,1988
+canoe,ÀîÇ¿,m,84,186,1989
+hockey,ÍõÃÎÓê,f,70,170,1992
+fencing,½¹ÔÆÁú,m,87,190,1988
+swimming,Ò¶Ê«ÎÄ,f,71,172,1996
+rowing,ÃçÌğ,f,83,186,1993
+water polo,ËïÑÅæÃ,f,76,178,1988
+track cycling,Ğì³¬,m,82,185,1994
+track cycling,¹¬½ğ½Ü,f,65,165,1986
+judo,ÈüÒô¼ªÈÕ¸ÂÀ­,m,73,175,1989
+badminton,¸µº£·å,m,78,181,1984
+diving,ºÎ³¬,m,67,168,1992
+shooting,ÀîÔ½ºê,m,71,173,1989
+archery,¹ËÑ©ËÎ,m,75,178,1993
+shooting,ÆÑç÷·å,m,80,184,1986
+swimming,ÉÌ¿ÆÔª,m,79,183,1995
+hockey,ÁºÃÀÓñ,f,65,166,1994
+basketball,ÖÜÅô,m,100,206,1989
+basketball,µÔÏş´¨,m,100,206,1993
+athletics,Ğ»ÎÄ¿¥,m,85,190,1990
+swimming,ÁÖÓÀÇì,m,85,190,1992
+track cycling,ÂŞÏşÁá,f,68,170,1988
+table tennis,ÂíÁú,m,72,175,1988
+athletics,ÄªÓĞÑ©,m,76,180,1996
+athletics,²ÜË¶,m,76,180,1991
+rowing,¶Î¾²Àò,f,76,180,1989
+sailing,»ÆÀöÖé,f,71,174,1987
+basketball,×ŞÓêå·,m,100,207,1996
+track cycling,ÁÖ¿¡ºì,f,62,163,1990
+badminton,ºéì¿,m,86,192,1989
+rowing,ÕÅÜ°ÔÂ,f,73,177,1993
+swimming,ÀîÏì,m,85,191,1993
+track cycling,·¶Ñô,m,78,183,1990
+athletics,ÂÀ»á»á,f,68,171,1989
+golf,ÁÖÏ£æ¥,f,68,171,1996
+weightlifting,ÀèÑÅ¾ı,f,53,151,1993
+artistic gymnastics,ÁõÑó,m,61,162,1994
+badminton,Ğì³¿,m,82,188,1984
+wrestling,ÖÜ·ï,f,71,175,1993
+swimming,Àî¹ãÔ´,m,81,187,1997
+athletics,Íõ¼ÎÄĞ,m,75,180,1996
+athletics,»Æ³£ÖŞ,m,75,180,1994
+athletics,ÑîÑó,m,75,180,1997
+boxing,ÀîÙ»,f,75,180,1990
+canoe,Êæ½¨Ã÷,m,75,180,1990
+shooting,ºú±óÔ¨,m,75,180,1977
+badminton,²ñì®,m,80,186,1990
+athletics,ÀîÁáÎµ,f,70,174,1989
+canoe,Ì·ÑÇ,m,70,174,1992
+hockey,ËÎÇåÁä,f,70,174,1986
+hockey,ÕÔÓñµñ,f,70,174,1989
+volleyball,ÁÖÀò,f,70,174,1992
+swimming,ÓàºØĞÂ,m,87,194,1996
+wrestling,Ò¶¶ûÀ¼±ğ¿Ë¡¤¿¨Ì©,m,66,169,1990
+basketball,¹ù°¬Â×,m,85,192,1993
+canoe,Áõº£Æ¼,f,69,173,1988
+modern pentathlon,¹ù½¨Á¦,m,73,178,1988
+swimming,ËïÑî,m,92,200,1991
+rowing,ÂÀÑï,f,77,183,1993
+basketball,ÀîÄ½ºÀ,m,110,219,1992
+badminton,ÚÈÁú,m,81,188,1989
+hockey,´ŞÇïÏ¼,f,63,166,1990
+artistic gymnastics,ÓÈºÆ,m,60,162,1992
+archery,²Ü»Û,f,70,175,1991
+badminton,ÌÆÔ¨œs,f,70,175,1994
+track cycling,ÇØ³¿Â·,m,70,175,1992
+badminton,ÂæÓ®,f,62,165,1991
+diving,Çñ²¨,m,62,165,1993
+football,ÁõÉ¼É¼,f,65,169,1992
+basketball,¶¡ÑåÓêº½,m,91,200,1993
+swimming,ÎâÓîº½,m,72,178,1997
+swimming,²Ü«h,f,72,178,1995
+volleyball,Ñî·½Ğñ,f,82,190,1994
+athletics,Ğ»ÕğÒµ,m,76,183,1993
+track cycling,Ò¦Æ½,f,58,160,1993
+rowing,ÕÅÁé,f,75,182,1997
+athletics,Ò¦½İ,m,80,188,1990
+volleyball,ÁõÏşÍ®,f,80,188,1990
+artistic gymnastics,ÁÖ³¬ÅÊ,m,60,163,1995
+modern pentathlon,²ÜÖÒÈÙ,m,73,180,1981
+boxing,ÁõÎ°,m,69,175,1988
+swimming,Ê·æºÁÕ,f,69,175,1993
+badminton,ÓÚÑó,f,62,166,1986
+water polo,ÕÅæº,f,62,166,1996
+canoe,ÀîÔÃ,f,65,170,1993
+diving,ÇØ¿­,m,65,170,1986
+canoe,ÂíÇà,f,68,174,1992
+basketball,¸ßËÌ,f,81,190,1992
+football,ÍõËª,f,61,165,1995
+badminton,ÕÅéª,m,75,183,1990
+basketball,ÎâµÏ,f,75,183,1993
+fencing,Ğí°²ç÷,f,75,183,1992
+shooting,ÖìÆôÄÏ,m,75,183,1984
+track cycling,Ñ¦³¬»ª,m,75,183,1992
+volleyball,ÎºÇïÔÂ,f,75,183,1988
+badminton,ÁÖµ¤,m,70,177,1983
+basketball,ÀîÉºÉº,f,70,177,1987
+shooting,»İ×Ó³Ì,m,70,177,1989
+swimming,ÌÆŞÈ,f,70,177,1993
+hockey,ÕÅ½ğÈÙ,f,60,164,1997
+water polo,Íõì§ÑŞ,f,73,181,1991
+athletics,º«Óñ³É,m,69,176,1978
+fencing,Âí½£·É,m,77,186,1984
+basketball,»ÆË¼¾²,f,82,192,1996
+diving,²ÜÔµ,m,62,167,1995
+hockey,Å·×ÏÏ¼,f,62,167,1995
+hockey,ÎâÇí,f,62,167,1989
+athletics,¶­±ó,m,72,180,1988
+rowing,Íõ½Ü,f,72,180,1992
+weightlifting,ºîÖ¾»Û,f,48,147,1997
+hockey,ÅíÑî,f,59,163,1992
+basketball,ÕÔ¼ÌÎ°,m,76,185,1995
+swimming,ÀîÖìå©,m,76,185,1999
+swimming,ÍôË³,m,81,191,1994
+basketball,ËïÃÎê¿,f,80,190,1993
+volleyball,ĞìÔÆÀö,f,86,197,1987
+trampoline,¸ßÀÚ,m,64,170,1992
+track cycling,ÕÔ±¦·¼,f,64,170,1993
+canoe,ÖÜÓñ,f,67,174,1989
+track cycling,ÁõºÆ,m,79,189,1988
+rowing,½­Ñà,f,70,178,1989
+swimming,ºîÑÅö©,f,70,178,1998
+table tennis,ÕÅ¼Ì¿Æ,m,70,178,1988
+fencing,³Âº£Íş,m,78,188,1994
+triathlon,°×·¢È«,m,66,173,1986
+badminton,ÂæÓğ,f,60,165,1991
+football,¹ÅÑÅÉ³,f,60,165,1990
+football,º«Åô,f,60,165,1989
+tennis,ĞìÒ»á¦,f,60,165,1988
+track cycling,ÉòÆ½°²,m,73,182,1994
+swimming,Ğì¼ÎÓà,m,77,187,1995
+table tennis,ÖìÓêÁá,f,57,161,1995
+rowing,Óà³É¸Õ,m,72,181,1984
+athletics,ËÕ±şÌí,m,65,172,1989
+track cycling,Íõìõ,m,65,172,1989
+athletics,ÁÖ»Û¾ı,f,62,168,1993
+hockey,ËïÏş,f,62,168,1992
+track cycling,ÖÓÌìÊ¹,f,62,168,1991
+swimming,ÄşÔóÌÎ,m,80,191,1993
+boxing,ÕÔÃ÷¸Õ,m,75,185,1988
+fencing,ËïÓñ½à,f,75,185,1992
+basketball,ËïÃÎÈ»,f,85,197,1992
+canoe,ÈÎÎÄ¾ı,f,67,175,1992
+hockey,ÍõÄÈ,f,61,167,1994
+track cycling,ÂíÃÎÂ¶,f,61,167,1997
+basketball,ÍõÕÜÁÖ,m,100,214,1994
+artistic gymnastics,µËÊéµÜ,m,58,163,1991
+fencing,ºÂ¼ÑÂ¶,f,66,174,1987
+judo,Ñî¿¡Ï¼,f,63,170,1989
+tennis,Ö£ÈüÈü,f,63,170,1994
+wrestling,ĞìÈï,f,63,170,1995
+rowing,ÔøÌÎ,m,73,183,1993
+swimming,ÁøÑÅĞÀ,f,69,178,1999
+hockey,ÓÚÙ»,f,60,166,1992
+swimming,ÕÅÜ°Óè,f,60,166,1997
+hockey,¹ú¼Ñ¼Ñ,f,65,173,1994
+tennis,ÅíË§,f,65,173,1986
+water polo,Å£¹ÚÄĞ,f,68,177,1992
+football,Ì·ÈãÒó,f,59,165,1994
+football,ÅÓ·áÔÂ,f,59,165,1989
+artistic gymnastics,ÕÅ³ÉÁú,m,64,172,1989
+swimming,ÖÜÃô,f,64,172,1997
+swimming,Ã«·ÉÁ®,m,74,185,1993
+athletics,ÖìÈÊÑ§,m,70,180,1992
+athletics,ÕÅº½,m,70,180,1991
+athletics,ĞìÏşÁú,m,70,180,1992
+athletics,ÌÀĞÇÇ¿,m,70,180,1995
+basketball,³ÂÏş¼Ñ,f,70,180,1988
+rowing,Íõ´¿öÎ,m,70,180,1997
+rowing,ÖìÎ¤Î°,f,70,180,1990
+sailing,Íõçâ,m,70,180,1988
+diving,ÁÖÔ¾,m,58,164,1991
+judo,Âí¶Ë±ó,m,66,175,1990
+table tennis,¶¡Äş,f,63,171,1990
+boxing,Òü¾ü»¨,f,60,167,1990
+hockey,Àî¼Ñçù,f,60,167,1995
+shooting,ÎºÄş,f,60,167,1982
+triathlon,ÍõÁ«æÂ,f,60,167,1994
+canoe,ÀîÂ¶,f,55,160,1992
+table tennis,ÀîÏşÏ¼,f,65,174,1988
+fencing,Éò³¿,f,62,170,1990
+swimming,ÖÜôàÁØ,f,62,170,1992
+volleyball,ÕÅ³£Äş,f,79,192,1995
+basketball,³Âéª,f,83,197,1983
+taekwondo,ÇÇÉ­,m,83,197,1990
+beach volleyball,Íõ·²,f,78,191,1994
+marathon swimming,ĞÁöÎ,f,61,169,1996
+water polo,ÅíÁÖ,f,73,185,1995
+synchronised swimming,ßÃÀş,f,58,165,1993
+water polo,Ñî¬B,f,69,180,1988
+sailing,³ÂÅåÄÈ,f,63,172,1989
+track cycling,»Æ¶¬ÑŞ,f,63,172,1993
+diving,³Â°¬É­,m,60,168,1995
+hockey,ÀîºìÏÀ,f,60,168,1986
+shooting,¹ùÎÄ¬B,f,60,168,1984
+athletics,¸ßĞËÁú,m,65,175,1994
+badminton,ÀîÑ©ÜÇ,f,65,175,1991
+sailing,Ğìê°¾ü,m,65,175,1992
+swimming,Â½äŞ,f,65,175,1989
+athletics,ÍõÓî,m,75,188,1991
+golf,Àîê»Í©,m,75,188,1995
+diving,Ë¾ÑÅ½Ü,f,57,164,1998
+rowing,ÍõÓîÎ¢,f,74,187,1991
+taekwondo,Ö£æ­Òô,f,74,187,1994
+athletics,»Æ²©¿­,m,78,192,1996
+swimming,ÌÆÓêæÃ,f,67,178,1999
+swimming,ÍôÑ©¶ù,f,67,178,1998
+beach volleyball,ÔÀÔ°,f,70,182,1987
+synchronised swimming,ÔøÕä,f,61,170,1993
+volleyball,»İÈôç÷,f,77,191,1991
+football,ÑîÂü,f,73,186,1995
+table tennis,ÁõÊ«ö©,f,54,160,1991
+tennis,ÕÅË§,f,66,177,1989
+football,Îâº£Ñà,f,58,166,1993
+basketball,»Æºì«n,f,80,195,1989
+rowing,ÕÔ¾°±õ,m,72,185,1990
+athletics,ÌÆ¹¦³¼,m,68,180,1989
+athletics,ÎâË®½¿,f,65,176,1991
+fencing,ËïÒ»ÎÄ,f,65,176,1992
+shooting,ÑîºÆÈ»,m,65,176,1996
+fencing,ÀÖ»ÛÁÕ,f,62,172,1989
+football,ÕÅî£,f,62,172,1989
+water polo,ÕÔ×Óº­,f,62,172,1993
+swimming,¸µÔ°»Û,f,67,179,1996
+basketball,ÉÛæÃ,f,70,183,1989
+rowing,½ğÍş,m,70,183,1987
+fencing,À×Éù,m,77,192,1984
+rowing,ÍõÌúöÎ,m,73,187,1989
+water polo,Âí»¶»¶,f,66,178,1990
+swimming,ÍõÊ©¼Ñ,f,63,174,1993
+badminton,Âí½ú,f,58,167,1988
+swimming,ãÆ×Ó±´,m,75,190,1995
+football,ÀîÓ°,f,60,170,1993
+wrestling,ÍõÂ·Ãô,m,60,170,1990
+fencing,ÁõÓ½Ê«,f,65,177,1990
+swimming,³Â½à,f,65,177,1995
+fencing,Ê©¼ÎÂå,m,71,185,1993
+table tennis,Ğíê¿,m,67,180,1990
+volleyball,¶¡Ï¼,f,67,180,1990
+synchronised swimming,ÌÀÃÎÄİ,f,59,169,1994
+swimming,ËïÃÀ³¿,f,63,175,1998
+diving,Ê©Í¢í®,f,52,159,1991
+basketball,ÖÜçù,m,95,215,1996
+modern pentathlon,ÕÅÏşéª,f,58,168,1992
+synchronised swimming,Òü³Éê¿,f,58,168,1995
+football,ÕÔÈİ,f,60,171,1991
+shooting,³Â·¼,f,60,171,1983
+synchronised swimming,ÁºÜ°èÒ,f,60,171,1994
+athletics,ÈÎÃÎÜç,f,65,178,1993
+badminton,ÍõÒÇº­,f,65,178,1988
+basketball,Â¶ö©,f,74,190,1990
+sailing,Íõ°®³À,m,70,185,1985
+swimming,ºúÒİĞù,m,70,185,1994
+shooting,ÕÅ±ò±ò,f,55,164,1989
+swimming,¶­½à,f,61,173,1998
+swimming,ÁõÏæ,f,66,180,1996
+athletics,Ñ¦³¤Èñ,m,75,192,1991
+track cycling,¾´ÑÇÀò,f,63,176,1989
+hockey,ÕÅóïÑ©,f,54,163,1992
+modern pentathlon,³ÂÙ»,f,54,163,1987
+diving,ºÎ×Ë,f,52,160,1990
+trampoline,¶­¶°,m,58,169,1989
+athletics,¶­¹ú½¨,m,60,172,1987
+boxing,É½¿¡,m,60,172,1994
+tennis,ÍõËN,f,60,172,1992
+athletics,ÍõÕñ¶«,m,62,175,1991
+synchronised swimming,»ÆÑ©³½,f,62,175,1990
+swimming,Çñ×Ó°Á,m,67,182,1998
+athletics,ÔÀ³¬,f,55,165,1991
+athletics,¿×ÁîÎ¢,f,55,165,1995
+boxing,ºúÇ«Ñ·,m,64,178,1987
+basketball,ÕÔÖ¾·¼,f,57,168,1994
+hockey,µÂ½¿½¿,f,57,168,1990
+athletics,ÍõÕò,m,63,177,1991
+shooting,ÕÅ¸»Éı,m,68,184,1993
+football,ÑîÀö,f,56,167,1991
+volleyball,ÑÕÄİ,f,74,192,1987
+athletics,²ÌÔóÁÖ,m,58,170,1991
+football,¸ß³¿,f,58,170,1992
+football,Àî¶¬ÄÈ,f,58,170,1988
+synchronised swimming,ËïÎÄÑã,f,58,170,1989
+badminton,ÕÔÜ¿ÀÙ,f,60,173,1986
+swimming,ÕÅÓêº­,f,60,173,1995
+football,±ÏÏşÁÕ,f,62,176,1989
+swimming,ÕÅÓêö­,f,62,176,1998
+water polo,ÕÅ|,f,62,176,1990
+volleyball,ÖìæÃ,f,76,195,1994
+wrestling,ÖÓÑ©´¿,f,55,166,1994
+shooting,ÎºÃÈ,f,57,169,1989
+water polo,ÕÅŞ±Ş±,f,66,182,1990
+rowing,»ÆÎÄÒÇ,f,63,178,1991
+swimming,ÓÚ¾²Ñş,f,63,178,1999
+swimming,ÁõÕ×³¾,m,68,185,1995
+football,Ñ¦‹É,f,58,171,1993
+hockey,Àî¶¬Ïş,f,60,174,1987
+synchronised swimming,¹ËĞ¦,f,60,174,1993
+judo,ÂíÓ¢éª,f,52,162,1984
+rowing,ËïÂú,m,70,188,1995
+athletics,³Â¶¨,m,62,177,1992
+swimming,ÖìÃÎ»İ,f,62,177,1999
+football,Â¦¼Ñ»İ,f,55,167,1991
+wrestling,ËïÑÇéª,f,51,161,1992
+swimming,³ÂĞÀâù,f,62,178,1988
+athletics,Î¤ÓÀÀö,f,55,168,1991
+track cycling,Íõºì,f,55,168,1997
+diving,ÁõŞ¥è¦,f,48,157,1997
+football,ÕÔÀöÄÈ,f,68,187,1991
+swimming,Éòîì,f,63,180,1997
+equestrian dressage,»ªÌì,m,70,190,1989
+sailing,ĞìÀò¼Ñ,f,60,176,1987
+volleyball,¹¨ÏèÓî,f,67,186,1997
+volleyball,Ô¬ĞÄ«h,f,78,201,1996
+athletics,ÕÅ¹úÎ°,m,77,200,1991
+diving,³ÂÈôÁÕ,f,49,160,1992
+athletics,ÓÚÎ°,m,62,180,1987
+swimming,°¬ÑÜº¬,f,54,168,2002
+rowing,ÅË·Éºè,f,57,173,1989
+athletics,¶à²¼½Ü,m,55,170,1994
+shooting,¶ÅÀö,f,55,170,1982
+diving,ÎâÃôÏ¼,f,53,167,1985
+boxing,ÕÅ¼Òçâ,m,56,172,1989
+football,ÍõÉºÉº,f,54,169,1990
+trampoline,Àîµ¤,f,47,158,1988
+fencing,ËïÎ°,m,70,193,1992
+athletics,¸ğÂüÆå,f,48,160,1997
+trampoline,ºÎö©ÄÈ,f,48,160,1989
+shooting,Ò×Ë¼Áá,f,51,165,1989
+football,ÕÅÔ½,f,64,185,1990
+diving,ÈÎÜç,f,49,162,2001
+rhythmic gymnastics,ÊæË¼Ñş,f,52,167,1992
+athletics,ÇĞÑôÊ²½ã,f,47,159,1990
+athletics,Áõºç,f,48,161,1987
+synchronised swimming,ÀîÏşè´,f,51,166,1992
+athletics,ÁºĞ¡¾²,f,45,156,1997
+boxing,ºú½¨¹Ø,m,52,168,1993
+athletics,ÀîÁá,f,63,185,1989
+rhythmic gymnastics,±«ÓïÇç,f,55,173,1993
+athletics,Ô¬çùçù,f,50,165,1995
+athletics,ÀîĞ¡ºì,f,56,175,1995
+athletics,»ªÉÜÇà,f,54,172,1994
+boxing,ÂÀ±ó,m,49,164,1994
+boxing,ÈÎ²Ó²Ó,f,51,168,1988
+rhythmic gymnastics,ÕÔ¾´éª,f,51,168,1995
+athletics,Ñî¼ÒÓñ,f,48,163,1996
+athletics,Íõ¿­»ª,m,55,175,1994
+athletics,ÕÅĞÂÑŞ,f,48,164,1994
+taekwondo,Îâ¾²îÚ,f,49,167,1987
+athletics,ÂÀĞãÖ¥,f,42,156,1993
+rhythmic gymnastics,ÕÅÁá,f,51,172,1992
+rhythmic gymnastics,ÑîêÊ,f,50,172,1994
+artistic gymnastics,·¶ÒäÁÕ,f,37,148,1999
+artistic gymnastics,Íõåû,f,33,140,1999
+artistic gymnastics,ÉÌ´ºËÉ,f,34,143,1996
+artistic gymnastics,Ì·¼ÑĞ½,f,36,148,1996
+taekwondo,ÕÔË§,m,58,188,1995
+rhythmic gymnastics,ÉĞÈØ,f,45,170,2000
+artistic gymnastics,Ã«ÒÕ,f,35,151,1999
+athletics,Íõ´ºÓê,f,43,176,1995
+football,ÍõìÍ,f,,173,1991
+shooting,ÕÅ¾¸æº,f,,,1988
+judo,³ÌÑµîÈ,m,90,183,1991
